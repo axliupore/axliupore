@@ -4,5 +4,5 @@
 </div>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/AxLiupore/AxLiupore/Bottom.svg" alt="Github Stats" />
+    <img src="https://github.com/AxLiupore/AxLiupore/Bottom.svg" alt="Github Stats" />
 </p>
