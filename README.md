@@ -10,7 +10,7 @@
 ## All Skills
 <p>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,git,rust,linux,ts,py" />
+    <img src="https://skillicons.dev/icons?i=go,git,rust,linux,ts,docker,kubernetes,vscode,redis,py" />
   </a>
 </p>
 
