@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m AxLiu
-- 💬 微信：AxLiu-go
+- 💬 微信：AxLiupore
 - 📩 邮箱：276836658@qq.com
 - 📝 个人博客：<a href="https://www.axcode.top/" target="_blank">AxLiu</a>
 <div style="display:flex" height="auto" width="auto">
